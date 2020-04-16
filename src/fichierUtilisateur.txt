@@ -1,0 +1,4 @@
+user1:u1:1 sexe
+user2:u2:2 nurPref
+user3:u3:3 sexe:nurPref
+user4:u4:4 
